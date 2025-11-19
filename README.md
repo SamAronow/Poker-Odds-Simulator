@@ -1,0 +1,1 @@
+To run this go to main and run the main function. First enter the number of players then indiviudally enter each of your 2 cards, and then say how many cards have flopped and which they are and then wait while it simulates billions of games and tells you your odds!
